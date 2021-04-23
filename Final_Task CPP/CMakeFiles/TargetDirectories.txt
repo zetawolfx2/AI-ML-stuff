@@ -1,0 +1,3 @@
+/home/zetawolfx2/Final_Task CPP/CMakeFiles/rebuild_cache.dir
+/home/zetawolfx2/Final_Task CPP/CMakeFiles/priority.dir
+/home/zetawolfx2/Final_Task CPP/CMakeFiles/edit_cache.dir
