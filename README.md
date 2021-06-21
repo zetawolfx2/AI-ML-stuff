@@ -14,7 +14,7 @@ Deep Learning:
 
  - Consists of
 
-    1. a Pretrained ResNet50 model which has been implemented on the EuroSAT model for distinguishing various landforms.
+    1. a Pretrained ResNet50 model which has been implemented on the EuroSAT dataset for distinguishing various landforms.
 
     2. a ResNet50 model trained from scratch for the same.
 
