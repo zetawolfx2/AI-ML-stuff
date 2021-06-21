@@ -18,6 +18,9 @@ If the vehicle occupies 15% x 15% of the pixels in our lane, then set priority t
 If the vehicle occupies less than the above, then set priority to 1.
 
 If the priority value is:
+
 3: Only display the car’s camera stream
+
 2: Switch between the car’s camera stream and the movie stream, displaying each for 2 seconds
+
 1: Only display the movie stream.
