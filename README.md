@@ -30,7 +30,7 @@ OpenCV:
 
 Final Task folder consists of the following mini project: 
 
-    Implemented in ROS+Opencv and also Opencv in CPP
+    (Implemented in ROS+OpenCV and also OpenCV in CPP using scripts)
 
     You want to watch a movie while your car drives by itself. But the car should not let you get so lost in the movie that you crash.
 
