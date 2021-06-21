@@ -1,19 +1,25 @@
 Machine Learning:
 
 Consists of 
+
 a Linear Regression model which predicts the price of a car given its features
+
 a Logistic Regression model
+
 Neural network made from scratch (without Keras+Tensorflow)
 
 Deep Learning:
 
 Consists of
+
 a Pretrained ResNet50 model which has been implemented on the EuroSAT model for distinguishing various landforms.
+
 a ResNet50 model trained from scratch for the same.
 
 OpenCV:
 
 Consists of a Lane detection Algorithm
+
 
 Final Task folder consists of the following mini project: 
 
