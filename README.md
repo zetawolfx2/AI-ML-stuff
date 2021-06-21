@@ -8,6 +8,8 @@ a Logistic Regression model
 
 Neural network made from scratch (without Keras+Tensorflow)
 
+
+
 Deep Learning:
 
 Consists of
@@ -16,9 +18,12 @@ a Pretrained ResNet50 model which has been implemented on the EuroSAT model for 
 
 a ResNet50 model trained from scratch for the same.
 
+
+
 OpenCV:
 
 Consists of a Lane detection Algorithm
+
 
 
 Final Task folder consists of the following mini project: 
